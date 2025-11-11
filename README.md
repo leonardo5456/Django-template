@@ -1,2 +1,3 @@
-# Django-template
-Template for a backend django project 
+
+Create a requeriments.txt
+pip freeze > requirements.lock.txt
